@@ -1,6 +1,6 @@
 This repository demonstrates an error when trying to use the System.Drawing.Common NuGet package in an AWS Lambda function built using .NET Core 2.0
 
-	> {
+	{
 	  "errorType": "TypeInitializationException",
 	  "errorMessage": "The type initializer for 'Gdip' threw an exception.",
 	  "stackTrace": [
